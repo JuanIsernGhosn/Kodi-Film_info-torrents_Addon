@@ -4,6 +4,10 @@
 
 Film information and torrent files from different providers.
 
+## Motivation:
+
+I wanted to stream torrents on my Raspberry Pi but there weren't any addon with enough catalogue, so I prefer to develop my own.
+
 ## Contracts:
 
 ### Information Provider modules
