@@ -1,4 +1,4 @@
-# Kodi-Film_info-torrents_Addon
+# Kodi Film info and torrents Addon
 
 ## Description:
 
