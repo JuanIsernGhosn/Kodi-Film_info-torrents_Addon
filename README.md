@@ -22,7 +22,7 @@ Soon...
 
 * Kodi krypton 17.4 for MacOS
 * Pycharm Community 2017.3.1 for MacOS
-* git version 2.13.6 (Apple Git-96)
+* git version 2.14.3 (Apple Git-98)
 
 
 ## Authors
